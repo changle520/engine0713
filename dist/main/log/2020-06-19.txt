@@ -1,0 +1,14 @@
+[2020-06-19 17:52:27] [ERROR] (2003, "Can't connect to MySQL server on '10.1.1.149' (timed out)")
+[2020-06-19 17:52:27] [ERROR] (2003, "Can't connect to MySQL server on '10.1.1.149' (timed out)")
+[2020-06-19 17:52:27] [ERROR] (2003, "Can't connect to MySQL server on '10.1.1.149' (timed out)")
+[2020-06-19 17:52:37] [ERROR] (2003, "Can't connect to MySQL server on '10.1.1.149' (timed out)")
+[2020-06-19 17:52:37] [ERROR] (2003, "Can't connect to MySQL server on '10.1.1.149' (timed out)")
+[2020-06-19 17:52:37] [ERROR] (2003, "Can't connect to MySQL server on '10.1.1.149' (timed out)")
+[2020-06-19 17:52:37] [ERROR] (2003, "Can't connect to MySQL server on '10.1.1.149' (timed out)")
+[2020-06-19 17:52:37] [ERROR] 'NoneType' object has no attribute 'execute'
+[2020-06-19 17:52:37] [ERROR] 'NoneType' object has no attribute 'execute'
+[2020-06-19 17:52:37] [ERROR] 'NoneType' object has no attribute 'execute'
+[2020-06-19 17:52:37] [ERROR] 'NoneType' object has no attribute 'execute'
+[2020-06-19 17:52:50] [ERROR] (2003, "Can't connect to MySQL server on '10.1.1.149' (timed out)")
+[2020-06-19 17:52:50] [ERROR] (2003, "Can't connect to MySQL server on '10.1.1.149' (timed out)")
+[2020-06-19 17:52:50] [ERROR] (2003, "Can't connect to MySQL server on '10.1.1.149' (timed out)")

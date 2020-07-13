@@ -1,0 +1,7 @@
+[2019-09-03 11:34:29] [ERROR] (1045, "Access denied for user 'root'@'192.168.1.48' (using password: YES)")
+[2019-09-03 11:34:29] [ERROR] (1045, "Access denied for user 'root'@'192.168.1.48' (using password: YES)")
+[2019-09-03 11:34:29] [ERROR] (1045, "Access denied for user 'root'@'192.168.1.48' (using password: YES)")
+[2019-09-03 11:34:29] [ERROR] 'NoneType' object has no attribute 'execute'
+[2019-09-03 11:34:29] [ERROR] 'NoneType' object has no attribute 'execute'
+[2019-09-03 11:34:29] [ERROR] 'NoneType' object has no attribute 'execute'
+[2019-09-03 11:34:29] [ERROR] 'NoneType' object has no attribute 'execute'

@@ -1,0 +1,14 @@
+[2019-10-21 09:32:51] [INFO] message_r is null
+[2019-10-21 09:32:51] [INFO] message_r is null
+[2019-10-21 09:32:51] [INFO] message_r is null
+[2019-10-21 09:32:51] [INFO] message_r is null
+[2019-10-21 09:32:54] [INFO] message_r is null
+[2019-10-21 09:32:54] [INFO] message_r is null
+[2019-10-21 09:32:54] [INFO] message_r is null
+[2019-10-21 09:32:54] [INFO] message_r is null
+[2019-10-21 09:32:54] [INFO] message_r is null
+[2019-10-21 09:32:54] [INFO] message_r is null
+[2019-10-21 09:36:48] [ERROR] tuple index out of range
+[2019-10-21 09:36:48] [ERROR] tuple index out of range
+[2019-10-21 09:36:48] [ERROR] tuple index out of range
+[2019-10-21 09:36:48] [ERROR] tuple index out of range
